@@ -6,10 +6,6 @@
 ## 🎥 Demo Video
 https://github.com/user-attachments/assets/64482a30-9715-4125-bde5-2db08e73c902
 
-## 🏠 Home Page Screenshot
-![Home Page](https://github.com/Saurabh-git-hub/real-time-voting-app/blob/main/vote%20img/Step%201%20Home.png)  
-*A glimpse of the landing page of Real-Time Voting App.*
-
 ---
 
 ## 📁 Project Structure
